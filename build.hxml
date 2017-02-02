@@ -1,0 +1,3 @@
+-lib ecx
+-main Main
+-cpp export/bin
